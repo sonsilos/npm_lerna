@@ -1,2 +1,2 @@
 const name = require("bar")
-console.log(`Hello ${name}`)
+console.log(`Hello : ${name}`)
