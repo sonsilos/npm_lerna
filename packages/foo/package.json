@@ -1,6 +1,6 @@
 {
   "name": "foo",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "bar": "^1.0.1"
+    "bar": "^2.0.0"
   },
   "gitHead": "ee630a7e3080662ffcc2f12b5eddbfa61ec85a2b"
 }
